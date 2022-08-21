@@ -9,3 +9,6 @@ class Sum
         System.out.println(sum);
     }
 }
+/*We are adding two numbers here 
+And commenting about program
+ */
